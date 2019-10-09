@@ -6,12 +6,14 @@ This is a simple package for checking NPWP Number
 
  - install
  
-
+    ```
     pip install npwPy
+    ```
 
  - using
  
-
+    ```
     import npwPy.npwp
     npwp.check('xxxxxxxx')
+    ```
 
