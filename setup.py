@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="npwPy",
-    version="0.0.1",
+    version="0.0.2",
     author="Fajrin Imam Arif",
     author_email="fajrinimamarif@gmail.com",
     description="this package for checking NPWP number",
